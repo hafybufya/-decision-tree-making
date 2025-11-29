@@ -8,6 +8,7 @@ This repository contains a python program that create a decision tree using a mu
 ```
 
 ├── mainCode.py
+├── LICENSE
 └── README.md
 
 ```
