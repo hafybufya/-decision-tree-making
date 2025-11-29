@@ -41,4 +41,4 @@ pip install pandas matplotlib ucimlrepo sklearn
 
 
 ## 📄 License
-This project is open source and available under the [MIT License](https://github.com/hafybufya/asset-prices/blob/main/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/hafybufya/decision-tree-making/blob/main/LICENSE).
